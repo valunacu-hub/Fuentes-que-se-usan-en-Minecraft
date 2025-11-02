@@ -9,6 +9,6 @@ En el *texto de abajo/la edition* o en ***minecraft.net***
 # Minecraft Seven
 Al poner los títulos a los mundos/servidores/**minecraft.net**
 # Noto Sans
-En Minecraft/minecraft.neg
+En Minecraft/minecraft.net
 # GNU Unifont Full
-Fuente de respaldo/reserva para un caracter no encontrado en Mojangles se sustituya. *Tambien cambian de fuente los demás caracteres*
+Fuente de respaldo/reserva para un caracter no encontrado en Mojangles se sustituya. *Tambien cambian de fuente a los demás caracteres*

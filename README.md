@@ -1,7 +1,7 @@
 # Fuentes-que-se-usan-en-Minecraft
 Estas son las fuentes usadas en Minecraft que encontré 100% parecidas
 # Minecraft Ten
-Logo de **Minecraft** y en **minecraft.net**
+Logo de **Minecraft** y se encuentran también en **minecraft.net**
 # Minecraft Five
 En el texto de **Una película de Minecraft** y en **minecraft.net**
 # Minecraft Five Bold

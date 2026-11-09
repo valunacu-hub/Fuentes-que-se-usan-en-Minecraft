@@ -8,6 +8,8 @@ En el texto de **Una película de Minecraft** y en **minecraft.net**
 En el *texto de abajo/la edition* o en ***minecraft.net***
 # Minecraft Seven
 Al poner los títulos a los mundos/servidores/**minecraft.net**
+# Minecraft Seven Java
+Es una versión con muchos idiomas
 # Noto Sans
 En Minecraft/minecraft.net
 # GNU Unifont Full

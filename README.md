@@ -9,7 +9,9 @@ En el *texto de abajo/la edition* o en ***minecraft.net***
 # Minecraft Seven
 Al poner los títulos a los mundos/servidores/**minecraft.net**
 # Minecraft Seven Java
-Es una versión con muchos idiomas
+Es una versión con muchos idiomas y está en java edition
+# Minecraft Seven Bedrock
+Esta trae el estándar de caracteres y ya no se encuentra
 # Noto Sans
 En Minecraft/minecraft.net
 # GNU Unifont Full
